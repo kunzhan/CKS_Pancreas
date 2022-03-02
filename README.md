@@ -3,13 +3,13 @@ Pancreas segmentation is very difficult since pancreas occupies only a very smal
 
 # Experiment
 ```sh
-bash demo_f2.sh
+bash f2.sh
 ```
 
 # Citation
 We appreciate it if you cite the following paper:
 ```
-@InProceedings{LiuAAAI2022,
+@InProceedings{TangMICCAI2022,
   author =    {Yumou Tang and Zhibo Tian and Saisai Wang and Xueming Wen and Kun Zhan},
   title =     {Momentum update for pancreas segmentation},
   booktitle = {MICCAI},

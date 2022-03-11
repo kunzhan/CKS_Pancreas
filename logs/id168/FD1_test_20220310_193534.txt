@@ -1,0 +1,1530 @@
+Looking for snapshots:
+  Snapshot directory 1 for plane X: /data/pan/models/snapshots/SIJ_training_1e-5x10,20/FD1:XJ3_1_20220310_193534.pkl .
+  1 snapshots are to be evaluated.
+    Snapshot #1: /data/pan/models/snapshots/SIJ_training_1e-5x10,20/FD1:XJ3_1_20220310_193534.pkl .
+  Snapshot directory 1 for plane Y: /data/pan/models/snapshots/SIJ_training_1e-5x10,20/FD1:YJ3_1_20220310_193534.pkl .
+  1 snapshots are to be evaluated.
+    Snapshot #1: /data/pan/models/snapshots/SIJ_training_1e-5x10,20/FD1:YJ3_1_20220310_193534.pkl .
+  Snapshot directory 1 for plane Z: /data/pan/models/snapshots/SIJ_training_1e-5x10,20/FD1:ZJ3_1_20220310_193534.pkl .
+  1 snapshots are to be evaluated.
+    Snapshot #1: /data/pan/models/snapshots/SIJ_training_1e-5x10,20/FD1:ZJ3_1_20220310_193534.pkl .
+In the coarse stage:
+  Result directory for plane X: /data/pan/results/coarse_testing_1e-5x10,20/FD1:XI3_1_20220310_193534.pkl/volumes .
+  Result directory for plane Y: /data/pan/results/coarse_testing_1e-5x10,20/FD1:YI3_1_20220310_193534.pkl/volumes .
+  Result directory for plane Z: /data/pan/results/coarse_testing_1e-5x10,20/FD1:ZI3_1_20220310_193534.pkl/volumes .
+Testing 1 out of 20 testcases.
+  Data loading is finished: 0.336000919342041 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.9076075553894043 second(s) elapsed.
+      DSC = 2 * 108899 / (116947 + 135109) = 0.8640857587202844 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.797088623046875 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.952751636505127 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 4.5594141483306885 second(s) elapsed.
+    Testing is finished: 4.826316595077515 second(s) elapsed.
+      DSC = 2 * 116386 / (126168 + 135109) = 0.8909012274329543 .
+        Inter-iteration DSC = 2 * 115636 / (126168 + 116947) = 0.951286428233552 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 6.307479381561279 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 7.283682823181152 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 7.875381708145142 second(s) elapsed.
+    Testing is finished: 8.13689374923706 second(s) elapsed.
+      DSC = 2 * 116823 / (126796 + 135109) = 0.8921020980890018 .
+        Inter-iteration DSC = 2 * 125027 / (126796 + 126168) = 0.9884963868376528 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 9.648788452148438 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 10.469831466674805 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 11.110437631607056 second(s) elapsed.
+    Testing is finished: 11.373611450195312 second(s) elapsed.
+      DSC = 2 * 116945 / (127011 + 135109) = 0.8923012360750802 .
+        Inter-iteration DSC = 2 * 126105 / (127011 + 126796) = 0.9937078173572833 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 12.8820321559906 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 13.689937114715576 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 14.365050792694092 second(s) elapsed.
+    Testing is finished: 14.624942064285278 second(s) elapsed.
+      DSC = 2 * 116992 / (127048 + 135109) = 0.8925338632956588 .
+        Inter-iteration DSC = 2 * 126602 / (127048 + 127011) = 0.9966346399852003 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 16.081295013427734 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.889105081558228 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 17.58590817451477 second(s) elapsed.
+    Testing is finished: 17.841485261917114 second(s) elapsed.
+      DSC = 2 * 117031 / (127157 + 135109) = 0.892460326538705 .
+        Inter-iteration DSC = 2 * 126804 / (127157 + 127048) = 0.997651501740721 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 19.276447534561157 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 20.079712629318237 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 20.610297441482544 second(s) elapsed.
+    Testing is finished: 20.869529962539673 second(s) elapsed.
+      DSC = 2 * 116990 / (127041 + 135109) = 0.892542437535762 .
+        Inter-iteration DSC = 2 * 126898 / (127041 + 127157) = 0.9984185556141276 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 22.215672254562378 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.27981400489807 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.939913988113403 second(s) elapsed.
+    Testing is finished: 24.196892976760864 second(s) elapsed.
+      DSC = 2 * 117059 / (127173 + 135109) = 0.8926193943922953 .
+        Inter-iteration DSC = 2 * 126894 / (127173 + 127041) = 0.9983242465009795 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 25.469032764434814 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.467522859573364 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.179584503173828 second(s) elapsed.
+    Testing is finished: 27.43938422203064 second(s) elapsed.
+      DSC = 2 * 116992 / (127049 + 135109) = 0.8925304587309942 .
+        Inter-iteration DSC = 2 * 126879 / (127049 + 127173) = 0.9981748235793912 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 28.701557397842407 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.507840633392334 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.214088439941406 second(s) elapsed.
+    Testing is finished: 30.47179341316223 second(s) elapsed.
+      DSC = 2 * 117051 / (127166 + 135109) = 0.8925822133257078 .
+        Inter-iteration DSC = 2 * 126871 / (127166 + 127049) = 0.9981393702181225 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 31.92099380493164 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 32.726200103759766 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 33.262202739715576 second(s) elapsed.
+    Testing is finished: 33.52259349822998 second(s) elapsed.
+      DSC = 2 * 116994 / (127052 + 135109) = 0.8925355029924359 .
+        Inter-iteration DSC = 2 * 126869 / (127052 + 127166) = 0.9981118567528656 .
+Testing 2 out of 20 testcases.
+  Data loading is finished: 0.4374570846557617 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.2307617664337158 second(s) elapsed.
+      DSC = 2 * 119079 / (142603 + 145935) = 0.8253956151356148 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.8052234649658203 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 4.259667873382568 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 5.094146728515625 second(s) elapsed.
+    Testing is finished: 5.459024906158447 second(s) elapsed.
+      DSC = 2 * 129016 / (160722 + 145935) = 0.8414352191536473 .
+        Inter-iteration DSC = 2 * 140085 / (160722 + 142603) = 0.9236627379873074 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 7.32185697555542 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 8.857672214508057 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.540536642074585 second(s) elapsed.
+    Testing is finished: 9.910374164581299 second(s) elapsed.
+      DSC = 2 * 129996 / (164327 + 145935) = 0.8379756463891808 .
+        Inter-iteration DSC = 2 * 158577 / (164327 + 160722) = 0.9757113542881227 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 11.69943380355835 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 13.12680435180664 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.737571001052856 second(s) elapsed.
+    Testing is finished: 14.105654954910278 second(s) elapsed.
+      DSC = 2 * 130310 / (165338 + 145935) = 0.8372714626710316 .
+        Inter-iteration DSC = 2 * 162434 / (165338 + 164327) = 0.985448864756647 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 15.975377321243286 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 17.257835388183594 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 17.869386911392212 second(s) elapsed.
+    Testing is finished: 18.242412567138672 second(s) elapsed.
+      DSC = 2 * 130459 / (165760 + 145935) = 0.8370939540255699 .
+        Inter-iteration DSC = 2 * 163718 / (165760 + 165338) = 0.9889398305033555 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 20.04923987388611 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 21.100051879882812 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.699873208999634 second(s) elapsed.
+    Testing is finished: 22.068447828292847 second(s) elapsed.
+      DSC = 2 * 130526 / (165983 + 145935) = 0.8369250892862867 .
+        Inter-iteration DSC = 2 * 164507 / (165983 + 165760) = 0.9917737525735283 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 23.86036252975464 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.909101009368896 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 25.50381064414978 second(s) elapsed.
+    Testing is finished: 25.87950897216797 second(s) elapsed.
+      DSC = 2 * 130497 / (165763 + 145935) = 0.8373297230011101 .
+        Inter-iteration DSC = 2 * 164729 / (165763 + 165983) = 0.9931031572347518 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 27.684857606887817 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 28.789098262786865 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 29.51479148864746 second(s) elapsed.
+    Testing is finished: 29.881017208099365 second(s) elapsed.
+      DSC = 2 * 130450 / (165879 + 145935) = 0.8367167606329414 .
+        Inter-iteration DSC = 2 * 164883 / (165879 + 165763) = 0.9943432978935117 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 31.48432731628418 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 32.85822606086731 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 33.5999915599823 second(s) elapsed.
+    Testing is finished: 33.97004222869873 second(s) elapsed.
+      DSC = 2 * 130461 / (165700 + 145935) = 0.8372679577069327 .
+        Inter-iteration DSC = 2 * 165089 / (165700 + 165879) = 0.9957747625754345 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 35.73886251449585 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 37.03761386871338 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 37.633721590042114 second(s) elapsed.
+    Testing is finished: 38.00132942199707 second(s) elapsed.
+      DSC = 2 * 130396 / (165770 + 145935) = 0.8366628703421505 .
+        Inter-iteration DSC = 2 * 164986 / (165770 + 165700) = 0.9954807373216279 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 39.68362617492676 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 40.9177143573761 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 41.697709798812866 second(s) elapsed.
+    Testing is finished: 42.06731605529785 second(s) elapsed.
+      DSC = 2 * 130397 / (165867 + 145935) = 0.8364090031494346 .
+        Inter-iteration DSC = 2 * 165047 / (165867 + 165770) = 0.9953473225243263 .
+Testing 3 out of 20 testcases.
+  Data loading is finished: 0.4345130920410156 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.2261016368865967 second(s) elapsed.
+      DSC = 2 * 83469 / (95838 + 142012) = 0.7018625183939458 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.872941255569458 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 4.225918292999268 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 4.993519067764282 second(s) elapsed.
+    Testing is finished: 5.355085849761963 second(s) elapsed.
+      DSC = 2 * 106371 / (126931 + 142012) = 0.7910300695686446 .
+        Inter-iteration DSC = 2 * 93847 / (126931 + 95838) = 0.8425499059563943 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 7.424388647079468 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 8.613471508026123 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.279158115386963 second(s) elapsed.
+    Testing is finished: 9.645821571350098 second(s) elapsed.
+      DSC = 2 * 109325 / (133033 + 142012) = 0.7949608245923394 .
+        Inter-iteration DSC = 2 * 124126 / (133033 + 126931) = 0.9549476081303565 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 11.416295051574707 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.403325080871582 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.095715761184692 second(s) elapsed.
+    Testing is finished: 13.462499380111694 second(s) elapsed.
+      DSC = 2 * 110555 / (135753 + 142012) = 0.796032617500405 .
+        Inter-iteration DSC = 2 * 130449 / (135753 + 133033) = 0.9706532334273362 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 15.218974351882935 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.457439422607422 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 17.25975775718689 second(s) elapsed.
+    Testing is finished: 17.62376642227173 second(s) elapsed.
+      DSC = 2 * 111361 / (136795 + 142012) = 0.7988393404756695 .
+        Inter-iteration DSC = 2 * 133472 / (136795 + 135753) = 0.9794384842303007 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 19.636709451675415 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 20.914877891540527 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.549049377441406 second(s) elapsed.
+    Testing is finished: 21.909916162490845 second(s) elapsed.
+      DSC = 2 * 111181 / (136547 + 142012) = 0.7982581786982291 .
+        Inter-iteration DSC = 2 * 134309 / (136547 + 136795) = 0.9827176211485977 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 23.784535884857178 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.946343421936035 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 25.75285267829895 second(s) elapsed.
+    Testing is finished: 26.11778950691223 second(s) elapsed.
+      DSC = 2 * 111709 / (137133 + 142012) = 0.8003654014938473 .
+        Inter-iteration DSC = 2 * 134745 / (137133 + 136547) = 0.9846901490792166 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 28.042830228805542 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.427462816238403 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.04693102836609 second(s) elapsed.
+    Testing is finished: 30.41478729248047 second(s) elapsed.
+      DSC = 2 * 111557 / (136880 + 142012) = 0.8000014342469487 .
+        Inter-iteration DSC = 2 * 135005 / (136880 + 137133) = 0.9853912040669603 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 32.43170523643494 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 33.49788522720337 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 34.249284744262695 second(s) elapsed.
+    Testing is finished: 34.61755323410034 second(s) elapsed.
+      DSC = 2 * 111773 / (137401 + 142012) = 0.8000558313321141 .
+        Inter-iteration DSC = 2 * 135317 / (137401 + 136880) = 0.9867034172983181 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 36.52269649505615 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 37.90111303329468 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 38.57200813293457 second(s) elapsed.
+    Testing is finished: 38.94151711463928 second(s) elapsed.
+      DSC = 2 * 111971 / (137670 + 142012) = 0.8007022260996417 .
+        Inter-iteration DSC = 2 * 135724 / (137670 + 137401) = 0.9868288550955935 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 40.963531255722046 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 41.95036602020264 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 42.57021880149841 second(s) elapsed.
+    Testing is finished: 42.93583559989929 second(s) elapsed.
+      DSC = 2 * 111517 / (137130 + 142012) = 0.7989983592580121 .
+        Inter-iteration DSC = 2 * 135973 / (137130 + 137670) = 0.9896142649199418 .
+Testing 4 out of 20 testcases.
+  Data loading is finished: 0.4268379211425781 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.2272086143493652 second(s) elapsed.
+      DSC = 2 * 106835 / (126464 + 119619) = 0.8682842780687817 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.885716676712036 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 4.312854051589966 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 4.965452432632446 second(s) elapsed.
+    Testing is finished: 5.333649396896362 second(s) elapsed.
+      DSC = 2 * 109346 / (135779 + 119619) = 0.8562792191011676 .
+        Inter-iteration DSC = 2 * 124656 / (135779 + 126464) = 0.9506907715363232 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 7.08259916305542 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 8.268410682678223 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.058598279953003 second(s) elapsed.
+    Testing is finished: 9.424213409423828 second(s) elapsed.
+      DSC = 2 * 109352 / (137186 + 119619) = 0.8516345086738966 .
+        Inter-iteration DSC = 2 * 134220 / (137186 + 135779) = 0.9834227831406956 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 11.172425031661987 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.59428334236145 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.237499952316284 second(s) elapsed.
+    Testing is finished: 13.606602907180786 second(s) elapsed.
+      DSC = 2 * 109529 / (137863 + 119619) = 0.8507701509231713 .
+        Inter-iteration DSC = 2 * 136206 / (137863 + 137186) = 0.9904126173881744 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 15.359886646270752 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.37461566925049 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 17.151957750320435 second(s) elapsed.
+    Testing is finished: 17.521920204162598 second(s) elapsed.
+      DSC = 2 * 109601 / (137967 + 119619) = 0.8509856902160832 .
+        Inter-iteration DSC = 2 * 137042 / (137967 + 137863) = 0.9936700141391437 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 19.108657360076904 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 20.517064571380615 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.285665035247803 second(s) elapsed.
+    Testing is finished: 21.65518856048584 second(s) elapsed.
+      DSC = 2 * 109564 / (138065 + 119619) = 0.8503748777572531 .
+        Inter-iteration DSC = 2 * 137384 / (138065 + 137967) = 0.995420820774403 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 23.446803331375122 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.62383770942688 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 25.24841570854187 second(s) elapsed.
+    Testing is finished: 25.615023851394653 second(s) elapsed.
+      DSC = 2 * 109632 / (138239 + 119619) = 0.8503284753624087 .
+        Inter-iteration DSC = 2 * 137626 / (138239 + 138065) = 0.9961925994556721 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 27.20051336288452 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 28.22428798675537 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 28.841276168823242 second(s) elapsed.
+    Testing is finished: 29.212098598480225 second(s) elapsed.
+      DSC = 2 * 109653 / (138223 + 119619) = 0.850544131677539 .
+        Inter-iteration DSC = 2 * 137852 / (138223 + 138239) = 0.9972582127019265 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 30.798635721206665 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 32.001116037368774 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 32.7971978187561 second(s) elapsed.
+    Testing is finished: 33.1635627746582 second(s) elapsed.
+      DSC = 2 * 109653 / (138368 + 119619) = 0.8500660886013637 .
+        Inter-iteration DSC = 2 * 137924 / (138368 + 138223) = 0.9973137231507895 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 34.93155384063721 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 36.343700647354126 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 36.953773975372314 second(s) elapsed.
+    Testing is finished: 37.324206829071045 second(s) elapsed.
+      DSC = 2 * 109786 / (138553 + 119619) = 0.8504872720511907 .
+        Inter-iteration DSC = 2 * 138048 / (138553 + 138368) = 0.9970208109894158 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 39.040353775024414 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 40.10714268684387 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 40.850406646728516 second(s) elapsed.
+    Testing is finished: 41.21752905845642 second(s) elapsed.
+      DSC = 2 * 109778 / (138726 + 119619) = 0.8498558129632855 .
+        Inter-iteration DSC = 2 * 138239 / (138726 + 138553) = 0.9971112128938723 .
+Testing 5 out of 20 testcases.
+  Data loading is finished: 0.2678091526031494 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.7456824779510498 second(s) elapsed.
+      DSC = 2 * 103425 / (123038 + 119173) = 0.8540074563087556 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 1.9524328708648682 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 2.9444785118103027 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.5158231258392334 second(s) elapsed.
+    Testing is finished: 3.7287912368774414 second(s) elapsed.
+      DSC = 2 * 108037 / (131478 + 119173) = 0.8620512186266961 .
+        Inter-iteration DSC = 2 * 120442 / (131478 + 123038) = 0.9464395165726319 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.04943323135376 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 5.902453660964966 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.601487636566162 second(s) elapsed.
+    Testing is finished: 6.814272403717041 second(s) elapsed.
+      DSC = 2 * 108470 / (132945 + 119173) = 0.8604700973353747 .
+        Inter-iteration DSC = 2 * 130107 / (132945 + 131478) = 0.9840823226421302 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 7.9809064865112305 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 8.85432767868042 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.553146600723267 second(s) elapsed.
+    Testing is finished: 9.764245986938477 second(s) elapsed.
+      DSC = 2 * 108577 / (133128 + 119173) = 0.8606941708514829 .
+        Inter-iteration DSC = 2 * 131746 / (133128 + 132945) = 0.9902996546060667 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 10.857242107391357 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 11.902674436569214 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 12.591781854629517 second(s) elapsed.
+    Testing is finished: 12.807807683944702 second(s) elapsed.
+      DSC = 2 * 108643 / (133389 + 119173) = 0.8603273651618216 .
+        Inter-iteration DSC = 2 * 132204 / (133389 + 133128) = 0.9920868087213949 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 13.888330459594727 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 14.728204011917114 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 15.274872064590454 second(s) elapsed.
+    Testing is finished: 15.483553409576416 second(s) elapsed.
+      DSC = 2 * 108627 / (133429 + 119173) = 0.8600644492125953 .
+        Inter-iteration DSC = 2 * 132688 / (133429 + 133389) = 0.9945955670157186 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 16.800204277038574 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 17.890709400177002 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 18.427528381347656 second(s) elapsed.
+    Testing is finished: 18.646283388137817 second(s) elapsed.
+      DSC = 2 * 108690 / (133477 + 119173) = 0.8603997625173164 .
+        Inter-iteration DSC = 2 * 132794 / (133477 + 133429) = 0.9950619319161053 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 19.957475423812866 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 21.069663286209106 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.604735612869263 second(s) elapsed.
+    Testing is finished: 21.819780826568604 second(s) elapsed.
+      DSC = 2 * 108661 / (133453 + 119173) = 0.8602519138964319 .
+        Inter-iteration DSC = 2 * 132865 / (133453 + 133477) = 0.995504439366126 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 23.11570382118225 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.187058687210083 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 24.724178075790405 second(s) elapsed.
+    Testing is finished: 24.934504508972168 second(s) elapsed.
+      DSC = 2 * 108716 / (133572 + 119173) = 0.860282102514392 .
+        Inter-iteration DSC = 2 * 132998 / (133572 + 133453) = 0.9961464282370565 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 26.174867391586304 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 27.197893619537354 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.74036455154419 second(s) elapsed.
+    Testing is finished: 27.952292680740356 second(s) elapsed.
+      DSC = 2 * 108666 / (133439 + 119173) = 0.8603391762861622 .
+        Inter-iteration DSC = 2 * 133024 / (133439 + 133572) = 0.9963934070131942 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 29.203803062438965 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 30.17021894454956 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.744701147079468 second(s) elapsed.
+    Testing is finished: 30.956164598464966 second(s) elapsed.
+      DSC = 2 * 108676 / (133476 + 119173) = 0.8602923423405594 .
+        Inter-iteration DSC = 2 * 133015 / (133476 + 133439) = 0.9966843377105071 .
+Testing 6 out of 20 testcases.
+  Data loading is finished: 0.45134663581848145 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.2406377792358398 second(s) elapsed.
+      DSC = 2 * 128259 / (137479 + 145057) = 0.90791261998471 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.8655240535736084 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 4.159992694854736 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 4.824817180633545 second(s) elapsed.
+    Testing is finished: 5.197116374969482 second(s) elapsed.
+      DSC = 2 * 133472 / (147965 + 145057) = 0.911003269379091 .
+        Inter-iteration DSC = 2 * 136414 / (147965 + 137479) = 0.9558021888706717 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 7.003487825393677 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 7.9232401847839355 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 8.749195575714111 second(s) elapsed.
+    Testing is finished: 9.119573831558228 second(s) elapsed.
+      DSC = 2 * 133748 / (149396 + 145057) = 0.9084505846433896 .
+        Inter-iteration DSC = 2 * 146762 / (149396 + 147965) = 0.9870964921425472 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 10.711021900177002 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 11.94482970237732 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 12.750486850738525 second(s) elapsed.
+    Testing is finished: 13.119154930114746 second(s) elapsed.
+      DSC = 2 * 133689 / (149571 + 145057) = 0.9075104878015667 .
+        Inter-iteration DSC = 2 * 148445 / (149571 + 149396) = 0.993052744951784 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 14.696118593215942 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 15.791736125946045 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 16.594074726104736 second(s) elapsed.
+    Testing is finished: 16.959431648254395 second(s) elapsed.
+      DSC = 2 * 133719 / (149756 + 145057) = 0.9071445289047634 .
+        Inter-iteration DSC = 2 * 148879 / (149756 + 149571) = 0.9947582409872815 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 18.53143882751465 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 19.791393756866455 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 20.603001594543457 second(s) elapsed.
+    Testing is finished: 20.972703218460083 second(s) elapsed.
+      DSC = 2 * 133708 / (149658 + 145057) = 0.9073715284257673 .
+        Inter-iteration DSC = 2 * 149113 / (149658 + 149756) = 0.9960322496610045 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 22.68719458580017 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.958913326263428 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 24.59175419807434 second(s) elapsed.
+    Testing is finished: 24.962896585464478 second(s) elapsed.
+      DSC = 2 * 133694 / (149736 + 145057) = 0.9070364628739488 .
+        Inter-iteration DSC = 2 * 149199 / (149736 + 149658) = 0.9966732800256518 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 26.720542192459106 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 27.644696474075317 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 28.405998706817627 second(s) elapsed.
+    Testing is finished: 28.777000904083252 second(s) elapsed.
+      DSC = 2 * 133764 / (149740 + 145057) = 0.9074990586742742 .
+        Inter-iteration DSC = 2 * 149281 / (149740 + 149736) = 0.9969480025110526 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 30.32564687728882 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 31.473721504211426 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 32.29907822608948 second(s) elapsed.
+    Testing is finished: 32.6639130115509 second(s) elapsed.
+      DSC = 2 * 133688 / (149731 + 145057) = 0.9070111402092351 .
+        Inter-iteration DSC = 2 * 149271 / (149731 + 149740) = 0.996897863232166 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 34.321385622024536 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 35.54028248786926 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 36.34213638305664 second(s) elapsed.
+    Testing is finished: 36.71155524253845 second(s) elapsed.
+      DSC = 2 * 133760 / (149744 + 145057) = 0.907459608345969 .
+        Inter-iteration DSC = 2 * 149284 / (149744 + 149731) = 0.9969713665581434 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 38.463555335998535 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 39.68126606941223 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 40.305646896362305 second(s) elapsed.
+    Testing is finished: 40.674251079559326 second(s) elapsed.
+      DSC = 2 * 133705 / (149726 + 145057) = 0.9071418636759921 .
+        Inter-iteration DSC = 2 * 149310 / (149726 + 149744) = 0.9971616522523125 .
+Testing 7 out of 20 testcases.
+  Data loading is finished: 0.30254173278808594 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.8290648460388184 second(s) elapsed.
+      DSC = 2 * 124532 / (138772 + 151500) = 0.858036600154338 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 1.9935455322265625 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.2159318923950195 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 4.13434362411499 second(s) elapsed.
+    Testing is finished: 4.372278213500977 second(s) elapsed.
+      DSC = 2 * 131509 / (154848 + 151500) = 0.8585595466593547 .
+        Inter-iteration DSC = 2 * 137079 / (154848 + 138772) = 0.9337170492473265 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.653488397598267 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.502736568450928 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 7.3902366161346436 second(s) elapsed.
+    Testing is finished: 7.625626802444458 second(s) elapsed.
+      DSC = 2 * 131925 / (156987 + 151500) = 0.8553034649758336 .
+        Inter-iteration DSC = 2 * 152864 / (156987 + 154848) = 0.9804159250885885 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 9.104899883270264 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.942363500595093 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 10.804919481277466 second(s) elapsed.
+    Testing is finished: 11.04038953781128 second(s) elapsed.
+      DSC = 2 * 131921 / (157473 + 151500) = 0.8539322206147463 .
+        Inter-iteration DSC = 2 * 155498 / (157473 + 156987) = 0.9889842905297971 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 12.390004634857178 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 13.360909223556519 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 14.171908378601074 second(s) elapsed.
+    Testing is finished: 14.409366130828857 second(s) elapsed.
+      DSC = 2 * 132006 / (157794 + 151500) = 0.853595608062232 .
+        Inter-iteration DSC = 2 * 156490 / (157794 + 157473) = 0.9927458313112377 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 15.667506456375122 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.746381282806396 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 17.57586693763733 second(s) elapsed.
+    Testing is finished: 17.817105770111084 second(s) elapsed.
+      DSC = 2 * 132070 / (157803 + 151500) = 0.8539846040937203 .
+        Inter-iteration DSC = 2 * 156780 / (157803 + 157794) = 0.9935455660224907 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 19.074174165725708 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 20.17488718032837 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.02429461479187 second(s) elapsed.
+    Testing is finished: 21.26528549194336 second(s) elapsed.
+      DSC = 2 * 132062 / (157869 + 151500) = 0.8537506990034555 .
+        Inter-iteration DSC = 2 * 157006 / (157869 + 157803) = 0.994741377125624 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 22.52381944656372 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.681952714920044 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 24.52662944793701 second(s) elapsed.
+    Testing is finished: 24.763545513153076 second(s) elapsed.
+      DSC = 2 * 132103 / (157962 + 151500) = 0.8537591045104084 .
+        Inter-iteration DSC = 2 * 157313 / (157962 + 157869) = 0.9961846683827743 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 26.01159429550171 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 27.24422860145569 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 28.06492304801941 second(s) elapsed.
+    Testing is finished: 28.307979822158813 second(s) elapsed.
+      DSC = 2 * 132132 / (157926 + 151500) = 0.8540458784976053 .
+        Inter-iteration DSC = 2 * 157431 / (157926 + 157962) = 0.996752013371828 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 29.580440521240234 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 30.795690059661865 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 31.60905694961548 second(s) elapsed.
+    Testing is finished: 31.84603500366211 second(s) elapsed.
+      DSC = 2 * 132095 / (158046 + 151500) = 0.8534757354318906 .
+        Inter-iteration DSC = 2 * 157328 / (158046 + 157926) = 0.9958350739938981 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 33.211008071899414 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 34.40651607513428 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 35.23818111419678 second(s) elapsed.
+    Testing is finished: 35.47738742828369 second(s) elapsed.
+      DSC = 2 * 132163 / (158059 + 151500) = 0.853879228192364 .
+        Inter-iteration DSC = 2 * 157457 / (158059 + 158046) = 0.9962322645956249 .
+Testing 8 out of 20 testcases.
+  Data loading is finished: 0.30620789527893066 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.8341245651245117 second(s) elapsed.
+      DSC = 2 * 64766 / (73515 + 74790) = 0.8734162705235832 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.0229105949401855 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 2.8262643814086914 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.337613821029663 second(s) elapsed.
+    Testing is finished: 3.581737995147705 second(s) elapsed.
+      DSC = 2 * 66986 / (79868 + 74790) = 0.8662468155543198 .
+        Inter-iteration DSC = 2 * 72213 / (79868 + 73515) = 0.9416036979326262 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 4.8576271533966064 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 5.753945827484131 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.398651123046875 second(s) elapsed.
+    Testing is finished: 6.639813184738159 second(s) elapsed.
+      DSC = 2 * 67249 / (80915 + 74790) = 0.8638001348704281 .
+        Inter-iteration DSC = 2 * 78839 / (80915 + 79868) = 0.9806882568430743 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 7.950425148010254 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 8.896274328231812 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.534961462020874 second(s) elapsed.
+    Testing is finished: 9.777275085449219 second(s) elapsed.
+      DSC = 2 * 67290 / (81218 + 74790) = 0.862648069329778 .
+        Inter-iteration DSC = 2 * 80013 / (81218 + 80915) = 0.9870044963085861 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 11.138532638549805 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.12238097190857 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 12.77819299697876 second(s) elapsed.
+    Testing is finished: 13.01597547531128 second(s) elapsed.
+      DSC = 2 * 67275 / (81272 + 74790) = 0.8621573477207777 .
+        Inter-iteration DSC = 2 * 80569 / (81272 + 81218) = 0.9916794879684904 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 14.318437337875366 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 15.26229453086853 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 15.87018346786499 second(s) elapsed.
+    Testing is finished: 16.112704515457153 second(s) elapsed.
+      DSC = 2 * 67274 / (81863 + 74790) = 0.8588919458931524 .
+        Inter-iteration DSC = 2 * 80911 / (81863 + 81272) = 0.9919514512520305 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 17.379382848739624 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 18.328739166259766 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 18.880099534988403 second(s) elapsed.
+    Testing is finished: 19.12467050552368 second(s) elapsed.
+      DSC = 2 * 67332 / (81457 + 74790) = 0.8618661478300383 .
+        Inter-iteration DSC = 2 * 80915 / (81457 + 81863) = 0.9908768062698996 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 20.39014220237732 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 21.350788831710815 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.84905195236206 second(s) elapsed.
+    Testing is finished: 22.093592166900635 second(s) elapsed.
+      DSC = 2 * 67293 / (81655 + 74790) = 0.8602767745853175 .
+        Inter-iteration DSC = 2 * 80842 / (81655 + 81457) = 0.9912452793172789 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 23.388609886169434 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.350857734680176 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 24.82969617843628 second(s) elapsed.
+    Testing is finished: 25.07238245010376 second(s) elapsed.
+      DSC = 2 * 67291 / (81758 + 74790) = 0.8596852083705956 .
+        Inter-iteration DSC = 2 * 80962 / (81758 + 81655) = 0.9908881178364023 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 26.412063598632812 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 27.313541412353516 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.793965101242065 second(s) elapsed.
+    Testing is finished: 28.036307334899902 second(s) elapsed.
+      DSC = 2 * 67343 / (82149 + 74790) = 0.8582060545817165 .
+        Inter-iteration DSC = 2 * 81217 / (82149 + 81758) = 0.9910131965077758 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 29.339664936065674 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 30.159660577774048 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.64121389389038 second(s) elapsed.
+    Testing is finished: 30.881581783294678 second(s) elapsed.
+      DSC = 2 * 67361 / (82255 + 74790) = 0.8578560285268554 .
+        Inter-iteration DSC = 2 * 81455 / (82255 + 82149) = 0.9909126298630203 .
+Testing 9 out of 20 testcases.
+  Data loading is finished: 0.2832212448120117 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.7973501682281494 second(s) elapsed.
+      DSC = 2 * 56556 / (67827 + 74157) = 0.7966531440162272 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 1.8434510231018066 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 2.604543685913086 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.11915922164917 second(s) elapsed.
+    Testing is finished: 3.349738836288452 second(s) elapsed.
+      DSC = 2 * 63351 / (82072 + 74157) = 0.8110017986417375 .
+        Inter-iteration DSC = 2 * 65780 / (82072 + 67827) = 0.8776576227993516 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 4.6831934452056885 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 5.612138509750366 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.119455337524414 second(s) elapsed.
+    Testing is finished: 6.350536346435547 second(s) elapsed.
+      DSC = 2 * 64177 / (86427 + 74157) = 0.7992950729836098 .
+        Inter-iteration DSC = 2 * 79844 / (86427 + 82072) = 0.9477088884800503 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 7.6942458152771 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 8.71169900894165 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.21802306175232 second(s) elapsed.
+    Testing is finished: 9.449878931045532 second(s) elapsed.
+      DSC = 2 * 64537 / (88390 + 74157) = 0.7940718684442039 .
+        Inter-iteration DSC = 2 * 84440 / (88390 + 86427) = 0.9660387719729775 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 10.855734825134277 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 11.932493209838867 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 12.444376230239868 second(s) elapsed.
+    Testing is finished: 12.677205085754395 second(s) elapsed.
+      DSC = 2 * 64556 / (88087 + 74157) = 0.7957890584551663 .
+        Inter-iteration DSC = 2 * 85776 / (88087 + 88390) = 0.9720926806326037 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 14.0542151927948 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 15.142906904220581 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 15.656285762786865 second(s) elapsed.
+    Testing is finished: 15.888501167297363 second(s) elapsed.
+      DSC = 2 * 64524 / (88831 + 74157) = 0.7917638108326993 .
+        Inter-iteration DSC = 2 * 86438 / (88831 + 88087) = 0.9771532574413004 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 17.27683448791504 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 18.36659336090088 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 18.879660606384277 second(s) elapsed.
+    Testing is finished: 19.107920169830322 second(s) elapsed.
+      DSC = 2 * 64431 / (88467 + 74157) = 0.792392266824085 .
+        Inter-iteration DSC = 2 * 86780 / (88467 + 88831) = 0.9789168518539408 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 20.503273725509644 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 21.628120183944702 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 22.136560678482056 second(s) elapsed.
+    Testing is finished: 22.37035322189331 second(s) elapsed.
+      DSC = 2 * 64516 / (88729 + 74157) = 0.7921613889468708 .
+        Inter-iteration DSC = 2 * 87001 / (88729 + 88467) = 0.9819747624099867 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 23.755491971969604 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.899174213409424 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 25.414756774902344 second(s) elapsed.
+    Testing is finished: 25.650301694869995 second(s) elapsed.
+      DSC = 2 * 64591 / (88915 + 74157) = 0.7921776883830455 .
+        Inter-iteration DSC = 2 * 87413 / (88915 + 88729) = 0.9841368129517462 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 27.043863534927368 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 28.187488794326782 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 28.700514554977417 second(s) elapsed.
+    Testing is finished: 28.937339305877686 second(s) elapsed.
+      DSC = 2 * 64607 / (87768 + 74157) = 0.7979867222479543 .
+        Inter-iteration DSC = 2 * 85761 / (87768 + 88915) = 0.9707894930468692 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 30.31744122505188 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 31.45431923866272 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 31.966192722320557 second(s) elapsed.
+    Testing is finished: 32.20107173919678 second(s) elapsed.
+      DSC = 2 * 64620 / (87876 + 74157) = 0.7976153005869174 .
+        Inter-iteration DSC = 2 * 85385 / (87876 + 87768) = 0.9722506888934436 .
+Testing 10 out of 20 testcases.
+  Data loading is finished: 0.4440138339996338 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.2320513725280762 second(s) elapsed.
+      DSC = 2 * 64828 / (70440 + 80604) = 0.8583988771483806 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.4751293659210205 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.381898880004883 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.8343799114227295 second(s) elapsed.
+    Testing is finished: 4.2076451778411865 second(s) elapsed.
+      DSC = 2 * 66707 / (75082 + 80604) = 0.8569428208059813 .
+        Inter-iteration DSC = 2 * 69056 / (75082 + 70440) = 0.9490798642129712 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.757329702377319 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 7.017302989959717 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 7.457637071609497 second(s) elapsed.
+    Testing is finished: 7.823338508605957 second(s) elapsed.
+      DSC = 2 * 67023 / (76198 + 80604) = 0.8548743000727032 .
+        Inter-iteration DSC = 2 * 74082 / (76198 + 75082) = 0.979402432575357 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 9.231765985488892 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 10.462508916854858 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 11.010748863220215 second(s) elapsed.
+    Testing is finished: 11.383654117584229 second(s) elapsed.
+      DSC = 2 * 67111 / (77079 + 80604) = 0.8512141448348902 .
+        Inter-iteration DSC = 2 * 75412 / (77079 + 76198) = 0.9839962942907285 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 12.921108961105347 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 14.158358573913574 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 14.68266248703003 second(s) elapsed.
+    Testing is finished: 15.047757387161255 second(s) elapsed.
+      DSC = 2 * 67003 / (77390 + 80604) = 0.848171449548717 .
+        Inter-iteration DSC = 2 * 76260 / (77390 + 77079) = 0.9873825816183183 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 16.437458038330078 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 17.644031047821045 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 18.19759440422058 second(s) elapsed.
+    Testing is finished: 18.567082405090332 second(s) elapsed.
+      DSC = 2 * 67069 / (78159 + 80604) = 0.8448945913090582 .
+        Inter-iteration DSC = 2 * 76720 / (78159 + 77390) = 0.9864415714662261 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 19.979886293411255 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 21.14647650718689 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.708933115005493 second(s) elapsed.
+    Testing is finished: 22.077351093292236 second(s) elapsed.
+      DSC = 2 * 66934 / (78190 + 80604) = 0.8430293336020253 .
+        Inter-iteration DSC = 2 * 77227 / (78190 + 78159) = 0.9878796794351099 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 23.47202467918396 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.449557781219482 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 24.989305019378662 second(s) elapsed.
+    Testing is finished: 25.35811495780945 second(s) elapsed.
+      DSC = 2 * 66999 / (78797 + 80604) = 0.8406346258806406 .
+        Inter-iteration DSC = 2 * 77661 / (78797 + 78190) = 0.9893940262569512 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 26.7542405128479 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 27.67305850982666 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 28.170047283172607 second(s) elapsed.
+    Testing is finished: 28.539679765701294 second(s) elapsed.
+      DSC = 2 * 67120 / (79373 + 80604) = 0.839120623589641 .
+        Inter-iteration DSC = 2 * 78311 / (79373 + 78797) = 0.990213061895429 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 30.09864091873169 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 31.020463466644287 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 31.46315884590149 second(s) elapsed.
+    Testing is finished: 31.83214783668518 second(s) elapsed.
+      DSC = 2 * 67052 / (79325 + 80604) = 0.838522094179292 .
+        Inter-iteration DSC = 2 * 78622 / (79325 + 79373) = 0.9908379437674073 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 33.289894342422485 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 34.31953454017639 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 34.752952575683594 second(s) elapsed.
+    Testing is finished: 35.12125015258789 second(s) elapsed.
+      DSC = 2 * 67103 / (79485 + 80604) = 0.8383211838414881 .
+        Inter-iteration DSC = 2 * 78728 / (79485 + 79325) = 0.9914740885334676 .
+Testing 11 out of 20 testcases.
+  Data loading is finished: 0.43151235580444336 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.223151683807373 second(s) elapsed.
+      DSC = 2 * 73736 / (78643 + 149457) = 0.6465234546251644 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.595716953277588 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.693434000015259 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 4.534130334854126 second(s) elapsed.
+    Testing is finished: 4.9044671058654785 second(s) elapsed.
+      DSC = 2 * 109371 / (121087 + 149457) = 0.8085265243361524 .
+        Inter-iteration DSC = 2 * 76212 / (121087 + 78643) = 0.7631502528413358 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 6.450316429138184 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 7.312128067016602 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 7.99343204498291 second(s) elapsed.
+    Testing is finished: 8.355420112609863 second(s) elapsed.
+      DSC = 2 * 114894 / (129857 + 149457) = 0.8226870117502166 .
+        Inter-iteration DSC = 2 * 118026 / (129857 + 121087) = 0.9406560826319816 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 9.972380876541138 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 10.890676021575928 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 11.737247467041016 second(s) elapsed.
+    Testing is finished: 12.103305339813232 second(s) elapsed.
+      DSC = 2 * 115565 / (131912 + 149457) = 0.8214479917830323 .
+        Inter-iteration DSC = 2 * 126423 / (131912 + 129857) = 0.9659126940164802 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 13.655304670333862 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 14.817890405654907 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 15.682422637939453 second(s) elapsed.
+    Testing is finished: 16.044246435165405 second(s) elapsed.
+      DSC = 2 * 115392 / (132393 + 149457) = 0.8188185204896221 .
+        Inter-iteration DSC = 2 * 128839 / (132393 + 131912) = 0.9749266945385067 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 17.705004930496216 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 18.89672565460205 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 19.579946279525757 second(s) elapsed.
+    Testing is finished: 19.94388747215271 second(s) elapsed.
+      DSC = 2 * 116150 / (133355 + 149457) = 0.8213937173811579 .
+        Inter-iteration DSC = 2 * 130100 / (133355 + 132393) = 0.9791230790071798 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 21.697791814804077 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 22.5645112991333 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.43208885192871 second(s) elapsed.
+    Testing is finished: 23.796401977539062 second(s) elapsed.
+      DSC = 2 * 115914 / (132969 + 149457) = 0.8208451063287374 .
+        Inter-iteration DSC = 2 * 131023 / (132969 + 133355) = 0.9839368588636398 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 25.316132068634033 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.500531435012817 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.35412335395813 second(s) elapsed.
+    Testing is finished: 27.721810817718506 second(s) elapsed.
+      DSC = 2 * 116313 / (133615 + 149457) = 0.8217909224508252 .
+        Inter-iteration DSC = 2 * 131289 / (133615 + 132969) = 0.98497284158089 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 29.395922899246216 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 30.618626356124878 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 31.32557487487793 second(s) elapsed.
+    Testing is finished: 31.692436695098877 second(s) elapsed.
+      DSC = 2 * 116228 / (133643 + 149457) = 0.821109148710703 .
+        Inter-iteration DSC = 2 * 131556 / (133643 + 133615) = 0.9844869002985879 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 33.37223196029663 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 34.2877779006958 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 35.10658240318298 second(s) elapsed.
+    Testing is finished: 35.477083683013916 second(s) elapsed.
+      DSC = 2 * 116057 / (133422 + 149457) = 0.8205416450142994 .
+        Inter-iteration DSC = 2 * 131775 / (133422 + 133643) = 0.9868384101248759 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 36.99875354766846 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 37.88370323181152 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 38.57330822944641 second(s) elapsed.
+    Testing is finished: 38.93635821342468 second(s) elapsed.
+      DSC = 2 * 116169 / (133628 + 149457) = 0.8207358213964003 .
+        Inter-iteration DSC = 2 * 131904 / (133628 + 133422) = 0.9878599513199775 .
+Testing 12 out of 20 testcases.
+  Data loading is finished: 0.3492398262023926 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.9422652721405029 second(s) elapsed.
+      DSC = 2 * 83829 / (97260 + 94045) = 0.8763911032121482 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.0603673458099365 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.020197868347168 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.7011473178863525 second(s) elapsed.
+    Testing is finished: 3.971163034439087 second(s) elapsed.
+      DSC = 2 * 86309 / (103068 + 94045) = 0.8757311795771968 .
+        Inter-iteration DSC = 2 * 96242 / (103068 + 97260) = 0.9608442154866019 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.173522233963013 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.16375470161438 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.830485820770264 second(s) elapsed.
+    Testing is finished: 7.102385759353638 second(s) elapsed.
+      DSC = 2 * 86608 / (103524 + 94045) = 0.8767367350140963 .
+        Inter-iteration DSC = 2 * 102188 / (103524 + 103068) = 0.9892735439900867 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.300170183181763 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.274587392807007 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.952000141143799 second(s) elapsed.
+    Testing is finished: 10.221215963363647 second(s) elapsed.
+      DSC = 2 * 86694 / (103709 + 94045) = 0.8767863102642677 .
+        Inter-iteration DSC = 2 * 102977 / (103709 + 103524) = 0.993828203037161 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 11.41902208328247 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.406344413757324 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.100773572921753 second(s) elapsed.
+    Testing is finished: 13.371547222137451 second(s) elapsed.
+      DSC = 2 * 86719 / (103740 + 94045) = 0.8769016861743812 .
+        Inter-iteration DSC = 2 * 103349 / (103740 + 103709) = 0.9963798331156092 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 14.58304762840271 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 15.534841060638428 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 16.224145889282227 second(s) elapsed.
+    Testing is finished: 16.500173807144165 second(s) elapsed.
+      DSC = 2 * 86797 / (103826 + 94045) = 0.8773089538133431 .
+        Inter-iteration DSC = 2 * 103573 / (103826 + 103740) = 0.997976547218716 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 17.70548367500305 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 18.616074562072754 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 19.312602519989014 second(s) elapsed.
+    Testing is finished: 19.583723783493042 second(s) elapsed.
+      DSC = 2 * 86793 / (103825 + 94045) = 0.8772729569919644 .
+        Inter-iteration DSC = 2 * 103622 / (103825 + 103826) = 0.9980399805442787 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 20.8010573387146 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 21.712315559387207 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 22.40671706199646 second(s) elapsed.
+    Testing is finished: 22.677265167236328 second(s) elapsed.
+      DSC = 2 * 86792 / (103838 + 94045) = 0.8772052172243194 .
+        Inter-iteration DSC = 2 * 103611 / (103838 + 103825) = 0.9978763669984543 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 23.880252599716187 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.791216611862183 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 25.484432220458984 second(s) elapsed.
+    Testing is finished: 25.75606870651245 second(s) elapsed.
+      DSC = 2 * 86784 / (103840 + 94045) = 0.8771154963741568 .
+        Inter-iteration DSC = 2 * 103671 / (103840 + 103838) = 0.9983821107676306 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 26.954410314559937 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 27.833097219467163 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 28.494643926620483 second(s) elapsed.
+    Testing is finished: 28.771838426589966 second(s) elapsed.
+      DSC = 2 * 86795 / (103827 + 94045) = 0.8772843050052559 .
+        Inter-iteration DSC = 2 * 103720 / (103827 + 103840) = 0.9989069038412458 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 29.96340322494507 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 30.676273107528687 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 31.212639093399048 second(s) elapsed.
+    Testing is finished: 31.484071731567383 second(s) elapsed.
+      DSC = 2 * 86787 / (103833 + 94045) = 0.8771768463396639 .
+        Inter-iteration DSC = 2 * 103719 / (103833 + 103827) = 0.9989309448136376 .
+Testing 13 out of 20 testcases.
+  Data loading is finished: 0.4199855327606201 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.2118823528289795 second(s) elapsed.
+      DSC = 2 * 62452 / (73682 + 109014) = 0.6836712352760871 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.874253273010254 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.882046699523926 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 4.586848258972168 second(s) elapsed.
+    Testing is finished: 4.955888748168945 second(s) elapsed.
+      DSC = 2 * 69452 / (84865 + 109014) = 0.7164468560287602 .
+        Inter-iteration DSC = 2 * 71833 / (84865 + 73682) = 0.9061413965574877 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 6.796759128570557 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 7.738745927810669 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 8.310696601867676 second(s) elapsed.
+    Testing is finished: 8.68454122543335 second(s) elapsed.
+      DSC = 2 * 70829 / (87338 + 109014) = 0.7214492340286832 .
+        Inter-iteration DSC = 2 * 83182 / (87338 + 84865) = 0.9660923445003862 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 10.458672285079956 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 11.20918869972229 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 11.921552419662476 second(s) elapsed.
+    Testing is finished: 12.29080605506897 second(s) elapsed.
+      DSC = 2 * 71186 / (87957 + 109014) = 0.7228069106619757 .
+        Inter-iteration DSC = 2 * 85556 / (87957 + 87338) = 0.9761373684360649 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 13.901624202728271 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 14.861995697021484 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 15.598229885101318 second(s) elapsed.
+    Testing is finished: 15.963892221450806 second(s) elapsed.
+      DSC = 2 * 71856 / (88821 + 109014) = 0.7264235347638184 .
+        Inter-iteration DSC = 2 * 86586 / (88821 + 87957) = 0.9796015341275498 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 17.77625298500061 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 18.787017822265625 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 19.509347915649414 second(s) elapsed.
+    Testing is finished: 19.877944469451904 second(s) elapsed.
+      DSC = 2 * 72316 / (89758 + 109014) = 0.7276276336707383 .
+        Inter-iteration DSC = 2 * 87620 / (89758 + 88821) = 0.9813023927785461 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 21.76393485069275 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 22.694185733795166 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.27397608757019 second(s) elapsed.
+    Testing is finished: 23.639583587646484 second(s) elapsed.
+      DSC = 2 * 73128 / (90630 + 109014) = 0.7325839995191441 .
+        Inter-iteration DSC = 2 * 88498 / (90630 + 89758) = 0.981196088431603 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 25.418923377990723 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.170365571975708 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 26.872157335281372 second(s) elapsed.
+    Testing is finished: 27.234591007232666 second(s) elapsed.
+      DSC = 2 * 73578 / (91263 + 109014) = 0.7347623541395167 .
+        Inter-iteration DSC = 2 * 89412 / (91263 + 90630) = 0.9831274430571819 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 28.86390495300293 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.621522665023804 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.198628425598145 second(s) elapsed.
+    Testing is finished: 30.56634831428528 second(s) elapsed.
+      DSC = 2 * 73658 / (91322 + 109014) = 0.7353446210366584 .
+        Inter-iteration DSC = 2 * 89754 / (91322 + 91263) = 0.9831475751020072 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 32.34710669517517 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 33.11434483528137 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 33.8692409992218 second(s) elapsed.
+    Testing is finished: 34.23443818092346 second(s) elapsed.
+      DSC = 2 * 74484 / (92356 + 109014) = 0.7397725579778517 .
+        Inter-iteration DSC = 2 * 90182 / (92356 + 91322) = 0.9819575561580592 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 35.86808967590332 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 36.80743670463562 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 37.53673243522644 second(s) elapsed.
+    Testing is finished: 37.90696096420288 second(s) elapsed.
+      DSC = 2 * 75130 / (92977 + 109014) = 0.7438945299543049 .
+        Inter-iteration DSC = 2 * 90990 / (92977 + 92356) = 0.9819082408421598 .
+Testing 14 out of 20 testcases.
+  Data loading is finished: 0.31081056594848633 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.8325340747833252 second(s) elapsed.
+      DSC = 2 * 97632 / (109075 + 118989) = 0.8561807212010664 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.19787335395813 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.3174068927764893 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.8635003566741943 second(s) elapsed.
+    Testing is finished: 4.104289531707764 second(s) elapsed.
+      DSC = 2 * 101313 / (116963 + 118989) = 0.8587594086932936 .
+        Inter-iteration DSC = 2 * 105543 / (116963 + 109075) = 0.9338518302232368 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.568608522415161 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.662446975708008 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 7.210660696029663 second(s) elapsed.
+    Testing is finished: 7.453045845031738 second(s) elapsed.
+      DSC = 2 * 101217 / (117929 + 118989) = 0.8544475303691572 .
+        Inter-iteration DSC = 2 * 115086 / (117929 + 116963) = 0.9799056587708393 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.897828340530396 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.972887754440308 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 10.518553733825684 second(s) elapsed.
+    Testing is finished: 10.759859323501587 second(s) elapsed.
+      DSC = 2 * 101223 / (118191 + 118989) = 0.8535542625853781 .
+        Inter-iteration DSC = 2 * 116627 / (118191 + 117929) = 0.9878621040149077 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 12.198853731155396 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 13.250336647033691 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.801305770874023 second(s) elapsed.
+    Testing is finished: 14.044400215148926 second(s) elapsed.
+      DSC = 2 * 101156 / (118262 + 118989) = 0.8527340243033749 .
+        Inter-iteration DSC = 2 * 117161 / (118262 + 118191) = 0.9909876381352742 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 15.484570980072021 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.53692626953125 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 17.083460330963135 second(s) elapsed.
+    Testing is finished: 17.330708980560303 second(s) elapsed.
+      DSC = 2 * 101162 / (118531 + 118989) = 0.8518187942068036 .
+        Inter-iteration DSC = 2 * 117303 / (118531 + 118262) = 0.9907640850869747 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 18.768516778945923 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 19.823648691177368 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 20.365902185440063 second(s) elapsed.
+    Testing is finished: 20.607300758361816 second(s) elapsed.
+      DSC = 2 * 101075 / (118625 + 118989) = 0.8507495349600612 .
+        Inter-iteration DSC = 2 * 117716 / (118625 + 118531) = 0.9927305233685844 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 22.04639482498169 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.102116584777832 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.65205454826355 second(s) elapsed.
+    Testing is finished: 23.886228799819946 second(s) elapsed.
+      DSC = 2 * 101065 / (118559 + 118989) = 0.8509017124960008 .
+        Inter-iteration DSC = 2 * 117952 / (118559 + 118625) = 0.9946033459255261 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 25.089081525802612 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.021312475204468 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 26.677891969680786 second(s) elapsed.
+    Testing is finished: 26.91738748550415 second(s) elapsed.
+      DSC = 2 * 100974 / (118326 + 118989) = 0.850970229441881 .
+        Inter-iteration DSC = 2 * 117868 / (118326 + 118559) = 0.9951495451379361 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 28.305301904678345 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.115299940109253 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 29.654785871505737 second(s) elapsed.
+    Testing is finished: 29.90119743347168 second(s) elapsed.
+      DSC = 2 * 101226 / (118472 + 118989) = 0.8525694745663498 .
+        Inter-iteration DSC = 2 * 117732 / (118472 + 118326) = 0.9943665064738723 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 31.348785877227783 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 32.44853448867798 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 32.98578977584839 second(s) elapsed.
+    Testing is finished: 33.22968506813049 second(s) elapsed.
+      DSC = 2 * 101156 / (118519 + 118989) = 0.8518113074085926 .
+        Inter-iteration DSC = 2 * 117801 / (118519 + 118472) = 0.99413901793739 .
+Testing 15 out of 20 testcases.
+  Data loading is finished: 0.3398921489715576 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.9211170673370361 second(s) elapsed.
+      DSC = 2 * 69444 / (77365 + 82635) = 0.86805 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.175966739654541 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.029956340789795 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.5882177352905273 second(s) elapsed.
+    Testing is finished: 3.855513334274292 second(s) elapsed.
+      DSC = 2 * 72144 / (83004 + 82635) = 0.8710991976527267 .
+        Inter-iteration DSC = 2 * 75681 / (83004 + 77365) = 0.9438357787352918 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.299345016479492 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.426380634307861 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.995089292526245 second(s) elapsed.
+    Testing is finished: 7.257680654525757 second(s) elapsed.
+      DSC = 2 * 72290 / (83668 + 82635) = 0.8693769805716073 .
+        Inter-iteration DSC = 2 * 81752 / (83668 + 83004) = 0.9809926082365364 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.647348880767822 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.68325161933899 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 10.372384309768677 second(s) elapsed.
+    Testing is finished: 10.633230686187744 second(s) elapsed.
+      DSC = 2 * 72365 / (84159 + 82635) = 0.8677170641629794 .
+        Inter-iteration DSC = 2 * 82863 / (84159 + 83668) = 0.9874811561906011 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 11.85378098487854 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.756238222122192 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.39293622970581 second(s) elapsed.
+    Testing is finished: 13.661113023757935 second(s) elapsed.
+      DSC = 2 * 72560 / (84720 + 82635) = 0.8671387170983836 .
+        Inter-iteration DSC = 2 * 83639 / (84720 + 84159) = 0.9905198396485058 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 15.036804437637329 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 15.805864095687866 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 16.347859382629395 second(s) elapsed.
+    Testing is finished: 16.615252256393433 second(s) elapsed.
+      DSC = 2 * 72492 / (85357 + 82635) = 0.8630410971951046 .
+        Inter-iteration DSC = 2 * 84130 / (85357 + 84720) = 0.9893166036559911 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 18.049132585525513 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 19.099536657333374 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 19.69658875465393 second(s) elapsed.
+    Testing is finished: 19.959717750549316 second(s) elapsed.
+      DSC = 2 * 72524 / (88360 + 82635) = 0.8482587210152344 .
+        Inter-iteration DSC = 2 * 84948 / (88360 + 85357) = 0.9780044555224877 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 21.26615047454834 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 22.42533564567566 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.230740070343018 second(s) elapsed.
+    Testing is finished: 23.491540670394897 second(s) elapsed.
+      DSC = 2 * 72521 / (89228 + 82635) = 0.843939649604627 .
+        Inter-iteration DSC = 2 * 87858 / (89228 + 88360) = 0.9894587472126495 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 24.751094579696655 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 25.82543134689331 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 26.63132882118225 second(s) elapsed.
+    Testing is finished: 26.89919090270996 second(s) elapsed.
+      DSC = 2 * 72478 / (89190 + 82635) = 0.8436257820456861 .
+        Inter-iteration DSC = 2 * 88583 / (89190 + 89228) = 0.9929827707966685 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 28.131142377853394 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 28.979284286499023 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 29.723074436187744 second(s) elapsed.
+    Testing is finished: 29.984174728393555 second(s) elapsed.
+      DSC = 2 * 72463 / (89218 + 82635) = 0.8433137623433982 .
+        Inter-iteration DSC = 2 * 88794 / (89218 + 89190) = 0.9954037935518587 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 31.387765884399414 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 32.16258931159973 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 32.77286887168884 second(s) elapsed.
+    Testing is finished: 33.03912329673767 second(s) elapsed.
+      DSC = 2 * 72468 / (89216 + 82635) = 0.843381766763068 .
+        Inter-iteration DSC = 2 * 88908 / (89216 + 89218) = 0.9965365345169642 .
+Testing 16 out of 20 testcases.
+  Data loading is finished: 0.32842159271240234 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.8954694271087646 second(s) elapsed.
+      DSC = 2 * 95601 / (112723 + 112025) = 0.8507394949009557 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.2733402252197266 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.1028997898101807 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.6856515407562256 second(s) elapsed.
+    Testing is finished: 3.948678970336914 second(s) elapsed.
+      DSC = 2 * 100115 / (122008 + 112025) = 0.855563104348532 .
+        Inter-iteration DSC = 2 * 110239 / (122008 + 112723) = 0.939279430497037 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.4794018268585205 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.398325204849243 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.997194051742554 second(s) elapsed.
+    Testing is finished: 7.2580742835998535 second(s) elapsed.
+      DSC = 2 * 100672 / (123378 + 112025) = 0.8553162024273268 .
+        Inter-iteration DSC = 2 * 120595 / (123378 + 122008) = 0.9829004099663388 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.836329698562622 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.790000677108765 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 10.383710384368896 second(s) elapsed.
+    Testing is finished: 10.642836332321167 second(s) elapsed.
+      DSC = 2 * 100525 / (123568 + 112025) = 0.8533784959654999 .
+        Inter-iteration DSC = 2 * 122082 / (123568 + 123378) = 0.9887343791760141 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 12.200113773345947 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 13.17346453666687 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.757067441940308 second(s) elapsed.
+    Testing is finished: 14.019545555114746 second(s) elapsed.
+      DSC = 2 * 100491 / (123464 + 112025) = 0.8534666162750701 .
+        Inter-iteration DSC = 2 * 122538 / (123464 + 123568) = 0.9920819974740115 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 15.587620496749878 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.560802221298218 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 17.14945697784424 second(s) elapsed.
+    Testing is finished: 17.414520263671875 second(s) elapsed.
+      DSC = 2 * 100662 / (123750 + 112025) = 0.8538818789099777 .
+        Inter-iteration DSC = 2 * 122748 / (123750 + 123464) = 0.9930505553892579 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 18.977657794952393 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 19.96345043182373 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 20.547647953033447 second(s) elapsed.
+    Testing is finished: 20.811285972595215 second(s) elapsed.
+      DSC = 2 * 100698 / (123818 + 112025) = 0.8539409692040891 .
+        Inter-iteration DSC = 2 * 123025 / (123818 + 123750) = 0.9938683513216571 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 22.368903875350952 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.403311014175415 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.992672204971313 second(s) elapsed.
+    Testing is finished: 24.249743700027466 second(s) elapsed.
+      DSC = 2 * 100501 / (123592 + 112025) = 0.8530878501975664 .
+        Inter-iteration DSC = 2 * 123130 / (123592 + 123818) = 0.9953518451153955 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 25.763074159622192 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.831690549850464 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.41798424720764 second(s) elapsed.
+    Testing is finished: 27.679941415786743 second(s) elapsed.
+      DSC = 2 * 100603 / (123718 + 112025) = 0.8534972406391707 .
+        Inter-iteration DSC = 2 * 123071 / (123718 + 123592) = 0.9952771824835227 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 29.147163152694702 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 30.21226739883423 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.79826545715332 second(s) elapsed.
+    Testing is finished: 31.061362743377686 second(s) elapsed.
+      DSC = 2 * 100599 / (123673 + 112025) = 0.8536262505409464 .
+        Inter-iteration DSC = 2 * 123148 / (123673 + 123718) = 0.995573808263033 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 32.515716552734375 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 33.574687004089355 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 34.19699478149414 second(s) elapsed.
+    Testing is finished: 34.45990872383118 second(s) elapsed.
+      DSC = 2 * 100631 / (123789 + 112025) = 0.853477740931412 .
+        Inter-iteration DSC = 2 * 123152 / (123789 + 123673) = 0.9953204936515505 .
+Testing 17 out of 20 testcases.
+  Data loading is finished: 0.27512359619140625 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.780217170715332 second(s) elapsed.
+      DSC = 2 * 127687 / (149039 + 149659) = 0.8549571808314753 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.010634183883667 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.194261312484741 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.763481378555298 second(s) elapsed.
+    Testing is finished: 3.989755392074585 second(s) elapsed.
+      DSC = 2 * 134917 / (165809 + 149659) = 0.8553450746192958 .
+        Inter-iteration DSC = 2 * 145001 / (165809 + 149039) = 0.9210857302571399 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.320050001144409 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.257225275039673 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.932471752166748 second(s) elapsed.
+    Testing is finished: 7.162287712097168 second(s) elapsed.
+      DSC = 2 * 135983 / (169896 + 149659) = 0.8510772793415844 .
+        Inter-iteration DSC = 2 * 163624 / (169896 + 165809) = 0.9748082393768338 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.468591451644897 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.453143835067749 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 10.130456686019897 second(s) elapsed.
+    Testing is finished: 10.3541738986969 second(s) elapsed.
+      DSC = 2 * 136055 / (170853 + 149659) = 0.8489853734025559 .
+        Inter-iteration DSC = 2 * 167825 / (170853 + 169896) = 0.9850359061948825 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 11.481040239334106 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.629838228225708 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.344715356826782 second(s) elapsed.
+    Testing is finished: 13.571606397628784 second(s) elapsed.
+      DSC = 2 * 136180 / (171083 + 149659) = 0.8491560194798311 .
+        Inter-iteration DSC = 2 * 169195 / (171083 + 170853) = 0.9896296382948856 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 14.698922872543335 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.025432348251343 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 16.72295618057251 second(s) elapsed.
+    Testing is finished: 16.953909397125244 second(s) elapsed.
+      DSC = 2 * 136106 / (171842 + 149659) = 0.846690990074681 .
+        Inter-iteration DSC = 2 * 169941 / (171842 + 171083) = 0.9911263395786251 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 18.223692417144775 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 19.505478858947754 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 20.18867325782776 second(s) elapsed.
+    Testing is finished: 20.41684055328369 second(s) elapsed.
+      DSC = 2 * 136139 / (172243 + 149659) = 0.8458412808867295 .
+        Inter-iteration DSC = 2 * 170501 / (172243 + 171842) = 0.9910400046500139 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 21.733942985534668 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.053010940551758 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.593570470809937 second(s) elapsed.
+    Testing is finished: 23.823570489883423 second(s) elapsed.
+      DSC = 2 * 136182 / (172751 + 149659) = 0.8447752861263609 .
+        Inter-iteration DSC = 2 * 171072 / (172751 + 172243) = 0.9917389867649872 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 25.154690980911255 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.252692461013794 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 26.85206127166748 second(s) elapsed.
+    Testing is finished: 27.07867693901062 second(s) elapsed.
+      DSC = 2 * 136149 / (173186 + 149659) = 0.843432606978581 .
+        Inter-iteration DSC = 2 * 171705 / (173186 + 172751) = 0.9926952017274822 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 28.481906175613403 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.369672775268555 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 29.916574954986572 second(s) elapsed.
+    Testing is finished: 30.15313744544983 second(s) elapsed.
+      DSC = 2 * 136168 / (173127 + 149659) = 0.8437044977167535 .
+        Inter-iteration DSC = 2 * 171848 / (173127 + 173186) = 0.9924432522024873 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 31.44100522994995 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 32.70086622238159 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 33.247387409210205 second(s) elapsed.
+    Testing is finished: 33.47433829307556 second(s) elapsed.
+      DSC = 2 * 135960 / (172744 + 149659) = 0.8434164694497259 .
+        Inter-iteration DSC = 2 * 171477 / (172744 + 173127) = 0.991566219775581 .
+Testing 18 out of 20 testcases.
+  Data loading is finished: 0.3088822364807129 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.8328917026519775 second(s) elapsed.
+      DSC = 2 * 79203 / (81234 + 116115) = 0.8026693826672544 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 1.9125502109527588 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.0134644508361816 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.703221321105957 second(s) elapsed.
+    Testing is finished: 3.9395649433135986 second(s) elapsed.
+      DSC = 2 * 88487 / (93037 + 116115) = 0.8461501682986536 .
+        Inter-iteration DSC = 2 * 80193 / (93037 + 81234) = 0.9203252405735894 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.1259236335754395 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.281782388687134 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.94286322593689 second(s) elapsed.
+    Testing is finished: 7.1834893226623535 second(s) elapsed.
+      DSC = 2 * 89648 / (96924 + 116115) = 0.8416111603978614 .
+        Inter-iteration DSC = 2 * 91967 / (96924 + 93037) = 0.9682724348682098 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.383962154388428 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.61815333366394 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 10.254400253295898 second(s) elapsed.
+    Testing is finished: 10.49328875541687 second(s) elapsed.
+      DSC = 2 * 89653 / (98408 + 116115) = 0.8358357845079548 .
+        Inter-iteration DSC = 2 * 95599 / (98408 + 96924) = 0.9788360330104643 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 11.692108154296875 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.951359748840332 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 13.583374977111816 second(s) elapsed.
+    Testing is finished: 13.8206787109375 second(s) elapsed.
+      DSC = 2 * 89662 / (99548 + 116115) = 0.8315009992441912 .
+        Inter-iteration DSC = 2 * 97280 / (99548 + 98408) = 0.9828446725534967 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 15.089258193969727 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 16.310463428497314 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 16.972155809402466 second(s) elapsed.
+    Testing is finished: 17.22016716003418 second(s) elapsed.
+      DSC = 2 * 89450 / (100360 + 116115) = 0.826423374523617 .
+        Inter-iteration DSC = 2 * 98341 / (100360 + 99548) = 0.9838625767853213 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 18.619495630264282 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 19.86040234565735 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 20.474733591079712 second(s) elapsed.
+    Testing is finished: 20.715927124023438 second(s) elapsed.
+      DSC = 2 * 89482 / (101140 + 116115) = 0.8237508918091644 .
+        Inter-iteration DSC = 2 * 99112 / (101140 + 100360) = 0.983741935483871 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 22.106878757476807 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.423267364501953 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 23.923418521881104 second(s) elapsed.
+    Testing is finished: 24.16473627090454 second(s) elapsed.
+      DSC = 2 * 89607 / (102040 + 116115) = 0.8214984758543238 .
+        Inter-iteration DSC = 2 * 99889 / (102040 + 101140) = 0.9832562260064966 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 25.493317127227783 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.72782611846924 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.236748218536377 second(s) elapsed.
+    Testing is finished: 27.477802515029907 second(s) elapsed.
+      DSC = 2 * 89492 / (102915 + 116115) = 0.8171665981828973 .
+        Inter-iteration DSC = 2 * 100923 / (102915 + 102040) = 0.9848308165206997 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 28.672571659088135 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.933777332305908 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.56754493713379 second(s) elapsed.
+    Testing is finished: 30.813601970672607 second(s) elapsed.
+      DSC = 2 * 89551 / (104206 + 116115) = 0.8129138847409008 .
+        Inter-iteration DSC = 2 * 102138 / (104206 + 102915) = 0.9862640678637126 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 32.01738452911377 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 33.3313992023468 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 33.96208453178406 second(s) elapsed.
+    Testing is finished: 34.20236039161682 second(s) elapsed.
+      DSC = 2 * 89581 / (105160 + 116115) = 0.8096802621172748 .
+        Inter-iteration DSC = 2 * 102985 / (105160 + 104206) = 0.9837796012724129 .
+Testing 19 out of 20 testcases.
+  Data loading is finished: 0.30141687393188477 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 0.8158221244812012 second(s) elapsed.
+      DSC = 2 * 97434 / (114440 + 104884) = 0.8884937352957268 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.093902826309204 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 3.0651824474334717 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.5469436645507812 second(s) elapsed.
+    Testing is finished: 3.78304123878479 second(s) elapsed.
+      DSC = 2 * 99610 / (118773 + 104884) = 0.8907389440080122 .
+        Inter-iteration DSC = 2 * 112265 / (118773 + 114440) = 0.9627679417528182 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.130896329879761 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 6.107772350311279 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.596638917922974 second(s) elapsed.
+    Testing is finished: 6.829448938369751 second(s) elapsed.
+      DSC = 2 * 99736 / (119176 + 104884) = 0.8902615370882799 .
+        Inter-iteration DSC = 2 * 117580 / (119176 + 118773) = 0.9882790009623911 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.171423196792603 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 9.147748708724976 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.630670070648193 second(s) elapsed.
+    Testing is finished: 9.867127418518066 second(s) elapsed.
+      DSC = 2 * 99803 / (119271 + 104884) = 0.8904820325221386 .
+        Inter-iteration DSC = 2 * 118397 / (119271 + 119176) = 0.9930676418659073 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 11.19678258895874 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 12.169522285461426 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 12.65010404586792 second(s) elapsed.
+    Testing is finished: 12.887630224227905 second(s) elapsed.
+      DSC = 2 * 99749 / (119327 + 104884) = 0.8897779323940396 .
+        Inter-iteration DSC = 2 * 118616 / (119327 + 119271) = 0.9942748891440834 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 14.22903060913086 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 15.21173095703125 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 15.690972089767456 second(s) elapsed.
+    Testing is finished: 15.924540281295776 second(s) elapsed.
+      DSC = 2 * 99806 / (119376 + 104884) = 0.89009185766521 .
+        Inter-iteration DSC = 2 * 118953 / (119376 + 119327) = 0.9966611228178951 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 17.274529457092285 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 18.248133420944214 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 18.728856563568115 second(s) elapsed.
+    Testing is finished: 18.963945865631104 second(s) elapsed.
+      DSC = 2 * 99766 / (119349 + 104884) = 0.8898422622896719 .
+        Inter-iteration DSC = 2 * 118995 / (119349 + 119376) = 0.9969211435752435 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 20.312705278396606 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 21.29379391670227 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.776028633117676 second(s) elapsed.
+    Testing is finished: 22.014193058013916 second(s) elapsed.
+      DSC = 2 * 99827 / (119387 + 104884) = 0.8902354740470234 .
+        Inter-iteration DSC = 2 * 119008 / (119387 + 119349) = 0.9969841163460894 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 23.355161428451538 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 24.318925380706787 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 24.80324697494507 second(s) elapsed.
+    Testing is finished: 25.043456077575684 second(s) elapsed.
+      DSC = 2 * 99783 / (119402 + 104884) = 0.8897835798935289 .
+        Inter-iteration DSC = 2 * 119052 / (119402 + 119387) = 0.9971313586471738 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 26.200557231903076 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 27.019209623336792 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.519113302230835 second(s) elapsed.
+    Testing is finished: 27.764200448989868 second(s) elapsed.
+      DSC = 2 * 99821 / (119373 + 104884) = 0.8902375399653076 .
+        Inter-iteration DSC = 2 * 119058 / (119373 + 119402) = 0.9972400795728196 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 28.919095993041992 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.735086679458618 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 30.244531393051147 second(s) elapsed.
+    Testing is finished: 30.490239143371582 second(s) elapsed.
+      DSC = 2 * 99781 / (119425 + 104884) = 0.8896745114997615 .
+        Inter-iteration DSC = 2 * 119100 / (119425 + 119373) = 0.9974957914220387 .
+Testing 20 out of 20 testcases.
+  Data loading is finished: 0.37903738021850586 second(s) elapsed.
+  Iteration round 0:
+    Fusion is finished: 1.0396318435668945 second(s) elapsed.
+      DSC = 2 * 84401 / (98511 + 96630) = 0.8650258018560938 .
+  Iteration round 1:
+    Testing on plane X and snapshot 1 is finished: 2.255434036254883 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 2.903345823287964 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 3.5069291591644287 second(s) elapsed.
+    Testing is finished: 3.8104333877563477 second(s) elapsed.
+      DSC = 2 * 89468 / (111023 + 96630) = 0.8617067896924195 .
+        Inter-iteration DSC = 2 * 96745 / (111023 + 98511) = 0.9234300877184609 .
+  Iteration round 2:
+    Testing on plane X and snapshot 1 is finished: 5.160648822784424 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 5.823248863220215 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 6.422571897506714 second(s) elapsed.
+    Testing is finished: 6.73258900642395 second(s) elapsed.
+      DSC = 2 * 89848 / (112955 + 96630) = 0.8573896032635924 .
+        Inter-iteration DSC = 2 * 109571 / (112955 + 111023) = 0.9784085937011671 .
+  Iteration round 3:
+    Testing on plane X and snapshot 1 is finished: 8.097138404846191 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 8.770294666290283 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 9.380089282989502 second(s) elapsed.
+    Testing is finished: 9.684059381484985 second(s) elapsed.
+      DSC = 2 * 89671 / (114365 + 96630) = 0.8499822270669921 .
+        Inter-iteration DSC = 2 * 111744 / (114365 + 112955) = 0.983142706317086 .
+  Iteration round 4:
+    Testing on plane X and snapshot 1 is finished: 11.034183740615845 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 11.717520952224731 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 12.326154232025146 second(s) elapsed.
+    Testing is finished: 12.631741285324097 second(s) elapsed.
+      DSC = 2 * 89707 / (115282 + 96630) = 0.8466438899165691 .
+        Inter-iteration DSC = 2 * 113226 / (115282 + 114365) = 0.9860873427477824 .
+  Iteration round 5:
+    Testing on plane X and snapshot 1 is finished: 13.993614673614502 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 14.676302909851074 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 15.281027555465698 second(s) elapsed.
+    Testing is finished: 15.585094213485718 second(s) elapsed.
+      DSC = 2 * 89728 / (115540 + 96630) = 0.8458123203091861 .
+        Inter-iteration DSC = 2 * 114185 / (115540 + 115282) = 0.989377095770767 .
+  Iteration round 6:
+    Testing on plane X and snapshot 1 is finished: 16.93287754058838 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 17.616633415222168 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 18.2188081741333 second(s) elapsed.
+    Testing is finished: 18.529974460601807 second(s) elapsed.
+      DSC = 2 * 89841 / (115827 + 96630) = 0.8457334896002485 .
+        Inter-iteration DSC = 2 * 114759 / (115827 + 115540) = 0.9920083676583091 .
+  Iteration round 7:
+    Testing on plane X and snapshot 1 is finished: 19.889720916748047 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 20.570536851882935 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 21.176074981689453 second(s) elapsed.
+    Testing is finished: 21.477503538131714 second(s) elapsed.
+      DSC = 2 * 89798 / (115754 + 96630) = 0.8456192556878107 .
+        Inter-iteration DSC = 2 * 114910 / (115754 + 115827) = 0.9923957492194956 .
+  Iteration round 8:
+    Testing on plane X and snapshot 1 is finished: 22.825408935546875 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 23.49983859062195 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 24.101000785827637 second(s) elapsed.
+    Testing is finished: 24.406874179840088 second(s) elapsed.
+      DSC = 2 * 89848 / (115704 + 96630) = 0.846289336611188 .
+        Inter-iteration DSC = 2 * 114983 / (115704 + 115754) = 0.9935539061082356 .
+  Iteration round 9:
+    Testing on plane X and snapshot 1 is finished: 25.75493812561035 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 26.430032968521118 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 27.030912160873413 second(s) elapsed.
+    Testing is finished: 27.33500099182129 second(s) elapsed.
+      DSC = 2 * 89914 / (115753 + 96630) = 0.846715603414586 .
+        Inter-iteration DSC = 2 * 115074 / (115753 + 115704) = 0.9943445218766337 .
+  Iteration round 10:
+    Testing on plane X and snapshot 1 is finished: 28.679500102996826 second(s) elapsed.
+    Testing on plane Y and snapshot 1 is finished: 29.355782985687256 second(s) elapsed.
+    Testing on plane Z and snapshot 1 is finished: 29.962454795837402 second(s) elapsed.
+    Testing is finished: 30.27331781387329 second(s) elapsed.
+      DSC = 2 * 89824 / (115635 + 96630) = 0.8463383035356747 .
+        Inter-iteration DSC = 2 * 115074 / (115635 + 115753) = 0.994641035835912 .
+Round 0, Average DSC = 0.8300377624160298 .
+Round 1, Average DSC = 0.8492759226089317 .
+Round 2, Average DSC = 0.847961000343908 .
+Round 3, Average DSC = 0.8463711440984565 .
+Round 4, Average DSC = 0.8459600073002871 .
+Round 5, Average DSC = 0.8449540009898643 .
+Round 6, Average DSC = 0.8443929961324521 .
+Round 7, Average DSC = 0.843914039263602 .
+Round 8, Average DSC = 0.8435288808925187 .
+Round 9, Average DSC = 0.8438551747088663 .
+Round 10, Average DSC = 0.8436246092461612 .
+DSC threshold = 0.90, Average DSC = 0.8495951484479134 std = 0.04078741436058992 .
+DSC threshold = 0.95, Average DSC = 0.8479113079180666 std = 0.040132412253726664 .
+DSC threshold = 0.98, Average DSC = 0.8467426560569423 std = 0.03899626953987792 .
+DSC threshold = 0.99, Average DSC = 0.8453515583880657 std = 0.03675196789792896 .
+The coarse-to-fine testing process is finished.

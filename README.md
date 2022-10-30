@@ -11,7 +11,7 @@ We appreciate it if you cite the following paper:
 ```
 @InProceedings{TangMICCAI2022,
   author =    {Yumou Tang and Kun Zhan and Zhibo Tian and Mingxuan Zhang and Saisai Wang and Xueming Wen},
-  title =     {Momentum update for pancreas segmentation},
+  title =     {Curriculum knowledge switching for pancreas segmentation},
   booktitle = {ICASSP},
   year =      {2023}
 }

@@ -12,7 +12,7 @@ We appreciate it if you cite the following paper:
 @InProceedings{TangMICCAI2022,
   author =    {Yumou Tang and Zhibo Tian and Saisai Wang and Xueming Wen and Kun Zhan},
   title =     {Momentum update for pancreas segmentation},
-  booktitle = {MICCAI},
+  booktitle = {ICIP},
   year =      {2022}
 }
 
